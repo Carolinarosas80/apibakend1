@@ -1,0 +1,42 @@
+[
+  {
+    "id": "b1a3e289-f4d5-4c85-b738-2ea13c5d5f01",
+    "title": "Manta nido gris",
+    "description": "Manta tejida en punto nido, ideal para cama o sofá.",
+    "price": 25000,
+    "category": "Para la cama",
+    "stock": 10
+  },
+  {
+    "id": "f7360122-7f28-4a1f-b8b0-3f1d02aeb482",
+    "title": "Camino de mesa en tusor",
+    "description": "Camino de mesa hecho a mano en tusor color natural.",
+    "price": 12000,
+    "category": "Living y cocina",
+    "stock": 15
+  },
+  {
+    "id": "0ef8cf3e-d299-4f0c-8a3e-eec58bb41774",
+    "title": "Taza de cerámica artesanal",
+    "description": "Taza hecha en torno, apta para microondas y lavavajilla.",
+    "price": 5000,
+    "category": "Productos deco",
+    "stock": 30
+  },
+  {
+    "id": "d20a6fa3-3161-4e84-9b5a-b7a8754868be",
+    "title": "Paño de cocina en tusor",
+    "description": "Paño absorbente en tusor rayado blanco y negro.",
+    "price": 9500,
+    "category": "Living y cocina",
+    "stock": 25
+  },
+  {
+    "id": "35bb5f68-09ec-4db7-a9d0-80285d24de1f",
+    "title": "Funda de almohadón nido",
+    "description": "Funda tejida en punto nido con cierre invisible.",
+    "price": 5500,
+    "category": "Para la cama",
+    "stock": 18
+  }
+]
